@@ -1,0 +1,3 @@
+Extracted ./uniform_gammas/uniform_gammas_100k_group23.hdf5 to /lustre06/project/6084498/aperna/uniform_gammas_extractor/tests/test_output/test_output_sample/uniform_gammas_base_group in 2.45 seconds
+testando
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group14.hdf5 to /lustre06/project/6084498/aperna/uniform_gammas_extractor/tests/test_output/test_output_sample/uniform_gammas_noel in 2.42 seconds

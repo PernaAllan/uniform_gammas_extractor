@@ -1,0 +1,121 @@
+Extracted ./uniform_gammas/uniform_gammas_100k_group23.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.32 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group14.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.31 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group15_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 5.88 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group5.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.31 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group8_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 5.94 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group2_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 5.97 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group17_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.93 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group20_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 5.84 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group18.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.45 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group10_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.92 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group13.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.36 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group3.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.32 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group15.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.28 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group0.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.31 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group15.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.25 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group8_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.91 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group16_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 7.00 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group5_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 5.91 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group20_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.79 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group14.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.52 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group4_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.92 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group20.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.35 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group9_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 9.34 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group8.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.32 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group5.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.30 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group0.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 3.92 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group17.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.57 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group23.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.30 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group13.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.32 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group1.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.35 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group7_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 7.14 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group19.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.26 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group8.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.32 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group11.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.31 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group22_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.96 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group6_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.98 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group17_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 6.06 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group10.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 3.37 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group24_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 8.34 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group13_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 7.15 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group24.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 3.81 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group3_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 6.03 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group12_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 6.08 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group1_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 5.96 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group11_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 6.88 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group21_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 7.82 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group7.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 3.55 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group1_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 6.04 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group13_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.99 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group21.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.41 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group6.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.47 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group18.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.31 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group22.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.38 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group9.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.32 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group11.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 3.25 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group2_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.98 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group4_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 5.95 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group23_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 6.01 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group4.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 3.36 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group15_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.85 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group12.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.36 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group14_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 13.61 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group0_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 6.03 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group17.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.51 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group22_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 7.06 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group6.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.34 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group9.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.56 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group2.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.32 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group16.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.26 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group19.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.34 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group0_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 6.12 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group7_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 7.99 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group12.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.37 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group21.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 3.47 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group22.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 3.62 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group12_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 7.11 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group5_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.94 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group16.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 3.56 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group7.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 3.20 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group9_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 7.08 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group2.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.49 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group4.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.32 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group10_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 6.09 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group18_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 6.33 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group6_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 7.45 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group1.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel in 2.50 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group19_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 7.67 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group18_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 6.85 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group21_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 7.64 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group19_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group_FVGains in 5.99 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group20.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 3.49 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group11_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.91 seconds
+Extracted ./uniform_gammas/uniform_gammas_100k_group10.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_base_group in 2.33 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group14_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.94 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group16_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.83 seconds
+Extracted ./uniform_gammas/uniform_gammas_noel_100k_group23_fvgains.rpk.hdf5 to /lustre06/project/6084498/dnn/data/uniform_gammas_noel_FVGains in 5.93 seconds
+Skipping ./cut_gammas/cut_gammas_100k_group1.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group17.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group23.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group6.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group21.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group0.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group12.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group3.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group14.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group8.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group20.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group18.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group7.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group13.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group22.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group15.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group10.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group9.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group5.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group2.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group4.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group16.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group19.hdf5 (excluded by filter)
+Skipping ./cut_gammas/cut_gammas_100k_group11.hdf5 (excluded by filter)
+Log file saved at /lustre06/project/6084498/aperna/uniform_gammas_extractor/logs/uniform_gammas_extractor.txt
